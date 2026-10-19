@@ -17,5 +17,10 @@ Mejltestet fungerade inte i början på grund av ett "ogiltigt" app-lösenord. J
 
 Produktuppgiften gav fyra merge konflikter mot main, eftersom en gruppmedlem hade jobbat med en uppdatering av designen på produkt kortet. Jag löste dem konflikterna själv i githubs webbeditor.
 
-### Samarbete och agilt arbet
+### Samarbete och agilt arbete
 På måndagens sprintplanering tog vi in åtta uppgifter till sprinten. Jag valde sökning, detljvy, medan mejltestet gjordes individuellt av alla. På onsdagens standup flaggade jag att mina uppgifter inte kunde påbörjas på grund av andras ej påbörjade arbete, istället använde jag tiden till att forska mer av gateway som ska också implementeras. Mejlproblemet lyftes upp under fredagens retro. Där diskuterades en lösning som jag testade direkt och det funkade. Denna vecka funkade bra med att flagga blockeringar till mina gruppmedlemmar och gav mig tid att forks mer om gateway istället för att vänta. Vad som kunde göras bättre är poker planning, just nu pratar vi om poängen för uppgiften och inte anonymt.
+
+## Sprint 5 (v.43)
+
+### Samarbete och agilt arbete
+I måndagens sprint planering tog vi in 12 uppgifter till sprinten. Det var uppgifter om gateway som vi hade suttit med varandra och delade upp en stor uppgift till flera små.
