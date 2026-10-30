@@ -31,3 +31,11 @@ Inga problem i mina egna uppgifter. Det enda problemet i sprinten var att det in
 Daily standups fungerade bra utan problem. Jag lyfte upp csrf problemet direkt när jag upptäckte det på vår avstämning i torsdags, vilket gjorde att det kunde åtgärdas samma dag. På fredagens retro diskuterade vi att vi ligger efter andra grupper och att det känns stressigt, men annars samarbetet i gruppen fungerat bra.
 
 ## Sprint 6 (v.44)
+### Vad jag arbetade med
+Vi tog in sju uppgifter till sprinten, varav två var mina, driftsättning av gatewayn till Render och ett playwright test för inloggning och produktvisning. Testet var beroende av en pr för återställning av inloggad användare via /auth/me. Medans jag väntade tog jag fyra extra uppgifter, cookie-information till användaren, finputsning av design på frontend, Javadoc och README-filer för backend. Alla fyra blev klara och dokumentationen delades med gruppen. När beroendet mergades slutförde jag playwright testet.
+
+### Eventuella problem och hur jag löste dem
+Inga problem med driftsättningen. Enda begränsningen var beroendet till `/auth/me` pr, vilket jag löste genom att jobba på andra uppgifter under tiden istället för att vänta. Samma arbetssätt som fungerade bra i Sprint 4.
+
+### Samarbete och agilt arbete
+På sprintplaneringen använde vi planning poker för första gången, vilket kändes tydligare, andras poängsättning gav bättre perspektiv på uppgifternas storlek. Vi fortsatte med en högre tempo utifrån förra veckans retro om tidsbrist. Standups gick bra utan problem. På retrot pratade vi om sprinten blev klar, vi hann ta in fler uppgifter, och projektet blev färdigt.
